@@ -1,7 +1,10 @@
 # Add-to-Cart-Button
 This repository contains the code and assets for a custom add-to-cart button component.
 
-### SEE now = 
+### SEE now = https://amar-webdev.github.io/Add-to-Cart-Button/
+
+![Image Description](https://github.com/amar-webdev/Add-to-Cart-Button/blob/assert/Screenshot%20Add%20to%20cart.png?raw=true)
+
 
 ## Features
 
